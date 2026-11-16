@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Miguel 👋
 
-<!--
-**miguelgarciahernandez487-cloud/miguelgarciahernandez487-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student at Tec de Monterrey, working toward a career in neuroengineering.
 
-Here are some ideas to get you started:
+## Interests
+- Neural signal processing (EEG)
+- Closed-loop neuromodulation
+- Brain-computer interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+I'm following a self-designed study plan in Python for neuroscience and signal processing.
+
+- 📂 [neuro-learning](https://github.com/miguelgarciahernandez487-cloud/neuro-learning): my practice notebooks
